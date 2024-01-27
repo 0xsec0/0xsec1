@@ -14,7 +14,7 @@ main.py -r        #寮卞彛浠�
 main.py xxx.txt   #瀛楀吀鐖嗙牬
 榛樿浣跨敤鐨勪唬鐞�:{proxies}
 ''')
-url="https://122.123.123.123/user/login"
+url="https://47.92.107.67/user/login"
 def userpassbp(result,file,ints): #鐖嗙牬
     headersbp = {
         'Cookie': 'PHPSESSID=9cee9522237b174d1bb39e30be105cd5',
